@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "lint": "npx prettier --write .",
+    "build": "bash ./build.sh"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.2",
+    "prettier": "^3.2.5",
+    "@types/chrome": "^0.0.263"
+  }
+}
